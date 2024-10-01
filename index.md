@@ -68,3 +68,10 @@ about horses
     }
 ```
 
+## Shopping list
+
+- [ ] eggs
+- [ ] milk
+- [ ] butter
+- [ ] bananas
+- [x] pasta
